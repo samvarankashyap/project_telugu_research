@@ -1,0 +1,3 @@
+googletrans
+html2text
+tinydb
